@@ -1,9 +1,97 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-09T11:26:59.941Z",
-  "version": 13,
-  "commit": "c34c657028111e89aa2fb7b4afd8b11a03e05ddc",
+  "generatedAt": "2026-09-09T11:35:53.252Z",
+  "version": 14,
+  "commit": "41f144a1f3ab02f3b468330100ffe60f4fea1fe7",
   "entries": [
+    {
+      "id": "lilka-default-icons",
+      "name": "Lilka Default Icons",
+      "description": "Default Lilka file icon theme.",
+      "type": "iconTheme",
+      "digest": "sha256:4cd9351f20b7d4af4196c18ca27ad6f3d0194fd5b797cc3f430e8f0dd4c12c64",
+      "version": "1.0.0",
+      "downloads": 0,
+      "tags": [
+        "lilka",
+        "icons"
+      ],
+      "publishedAt": "2026-08-29T00:00:00.000Z",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/lilka-default-icons",
+        "format": "auto"
+      }
+    },
+    {
+      "id": "material-icon-theme",
+      "name": "Material Icon Theme",
+      "description": "Popular MIT-licensed icon theme adapted for Lilka from material-extensions/vscode-material-icon-theme.",
+      "type": "iconTheme",
+      "digest": "sha256:d23127b39920550d69451adecaf139fbae8e6fa33d906e67f8e6671a02f38451",
+      "version": "1.0.0",
+      "downloads": 2953,
+      "tags": [
+        "icons",
+        "material",
+        "popular"
+      ],
+      "publishedAt": "2026-08-29T00:00:00.000Z",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/material-icon-theme",
+        "format": "auto"
+      }
+    },
+    {
+      "id": "vscode-icons",
+      "name": "vscode-icons",
+      "description": "Popular MIT-licensed icon theme adapted for Lilka from vscode-icons/vscode-icons.",
+      "type": "iconTheme",
+      "digest": "sha256:d172cf7215edf35068eee42d450ab93b7180bf063f2ceb9b1524b031337a98a3",
+      "version": "1.0.0",
+      "downloads": 5132,
+      "tags": [
+        "icons",
+        "files",
+        "popular"
+      ],
+      "publishedAt": "2026-08-29T00:00:00.000Z",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/vscode-icons",
+        "format": "auto"
+      }
+    },
+    {
+      "id": "Caleul/lilka-catalog-e2e/theme/catalog-e2e-theme",
+      "name": "Catalog E2E Theme",
+      "description": "Synthetic theme for catalog lifecycle validation.",
+      "type": "theme",
+      "source": {
+        "kind": "github",
+        "owner": "Caleul",
+        "repo": "lilka-catalog-e2e",
+        "ref": "55ce20bf55db6bf43117bc8a01568da225bb0437",
+        "path": "packages/theme/catalog-e2e-theme/1.0.0",
+        "format": "auto"
+      },
+      "digest": "sha256:af5c34f8e5401aa925252250d4566710b1e28ed953f338e63a6fc590063581d1",
+      "version": "1.0.0",
+      "downloads": 0,
+      "tags": [],
+      "publishedAt": "2026-09-09T11:11:31.750Z",
+      "license": "MIT"
+    },
     {
       "id": "catppuccin-mocha",
       "name": "Catppuccin Mocha",
@@ -70,28 +158,6 @@
         "repo": "lilka-packages",
         "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
         "path": "free/appearances/lilka-dark-theme",
-        "format": "auto"
-      }
-    },
-    {
-      "id": "lilka-default-icons",
-      "name": "Lilka Default Icons",
-      "description": "Default Lilka file icon theme.",
-      "type": "iconTheme",
-      "digest": "sha256:4cd9351f20b7d4af4196c18ca27ad6f3d0194fd5b797cc3f430e8f0dd4c12c64",
-      "version": "1.0.0",
-      "downloads": 0,
-      "tags": [
-        "lilka",
-        "icons"
-      ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/lilka-default-icons",
         "format": "auto"
       }
     },
@@ -165,29 +231,6 @@
       }
     },
     {
-      "id": "material-icon-theme",
-      "name": "Material Icon Theme",
-      "description": "Popular MIT-licensed icon theme adapted for Lilka from material-extensions/vscode-material-icon-theme.",
-      "type": "iconTheme",
-      "digest": "sha256:d23127b39920550d69451adecaf139fbae8e6fa33d906e67f8e6671a02f38451",
-      "version": "1.0.0",
-      "downloads": 2953,
-      "tags": [
-        "icons",
-        "material",
-        "popular"
-      ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/material-icon-theme",
-        "format": "auto"
-      }
-    },
-    {
       "id": "one-dark-pro",
       "name": "One Dark Pro",
       "description": "The widely used One Dark Pro palette adapted for Lilka.",
@@ -209,49 +252,6 @@
         "path": "free/appearances/one-dark-pro",
         "format": "auto"
       }
-    },
-    {
-      "id": "vscode-icons",
-      "name": "vscode-icons",
-      "description": "Popular MIT-licensed icon theme adapted for Lilka from vscode-icons/vscode-icons.",
-      "type": "iconTheme",
-      "digest": "sha256:d172cf7215edf35068eee42d450ab93b7180bf063f2ceb9b1524b031337a98a3",
-      "version": "1.0.0",
-      "downloads": 5132,
-      "tags": [
-        "icons",
-        "files",
-        "popular"
-      ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/vscode-icons",
-        "format": "auto"
-      }
-    },
-    {
-      "id": "Caleul/lilka-catalog-e2e/theme/catalog-e2e-theme",
-      "name": "Catalog E2E Theme",
-      "description": "Synthetic theme for catalog lifecycle validation.",
-      "type": "theme",
-      "source": {
-        "kind": "github",
-        "owner": "Caleul",
-        "repo": "lilka-catalog-e2e",
-        "ref": "55ce20bf55db6bf43117bc8a01568da225bb0437",
-        "path": "packages/theme/catalog-e2e-theme/1.0.0",
-        "format": "auto"
-      },
-      "digest": "sha256:af5c34f8e5401aa925252250d4566710b1e28ed953f338e63a6fc590063581d1",
-      "version": "1.0.0",
-      "downloads": 0,
-      "tags": [],
-      "publishedAt": "2026-09-09T11:11:31.750Z",
-      "license": "MIT"
     }
   ]
 }

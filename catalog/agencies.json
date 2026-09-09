@@ -1,9 +1,29 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-09T11:26:59.941Z",
-  "version": 13,
-  "commit": "c34c657028111e89aa2fb7b4afd8b11a03e05ddc",
+  "generatedAt": "2026-09-09T11:35:53.252Z",
+  "version": 14,
+  "commit": "41f144a1f3ab02f3b468330100ffe60f4fea1fe7",
   "entries": [
+    {
+      "id": "Caleul/lilka-catalog-e2e/agency/catalog-e2e-agency",
+      "name": "Catalog E2E Agency",
+      "description": "Synthetic workflow for catalog lifecycle validation.",
+      "type": "agency",
+      "source": {
+        "kind": "github",
+        "owner": "Caleul",
+        "repo": "lilka-catalog-e2e",
+        "ref": "ec9189f091f28746bb5e2547b0d1bd2754ba851d",
+        "path": "packages/agency/catalog-e2e-agency/1.0.0",
+        "format": "auto"
+      },
+      "digest": "sha256:091febd608e8386d0d736db00b7a566cca03cad1d62e9e08c0bce06c0a6c9fe7",
+      "version": "1.0.0",
+      "downloads": 0,
+      "tags": [],
+      "publishedAt": "2026-09-09T11:15:32.859Z",
+      "license": "MIT"
+    },
     {
       "id": "content-pipeline",
       "name": "Content Pipeline",
@@ -49,26 +69,6 @@
         "path": "free/agencies/task-development",
         "format": "auto"
       }
-    },
-    {
-      "id": "Caleul/lilka-catalog-e2e/agency/catalog-e2e-agency",
-      "name": "Catalog E2E Agency",
-      "description": "Synthetic workflow for catalog lifecycle validation.",
-      "type": "agency",
-      "source": {
-        "kind": "github",
-        "owner": "Caleul",
-        "repo": "lilka-catalog-e2e",
-        "ref": "ec9189f091f28746bb5e2547b0d1bd2754ba851d",
-        "path": "packages/agency/catalog-e2e-agency/1.0.0",
-        "format": "auto"
-      },
-      "digest": "sha256:091febd608e8386d0d736db00b7a566cca03cad1d62e9e08c0bce06c0a6c9fe7",
-      "version": "1.0.0",
-      "downloads": 0,
-      "tags": [],
-      "publishedAt": "2026-09-09T11:15:32.859Z",
-      "license": "MIT"
     }
   ]
 }

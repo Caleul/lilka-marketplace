@@ -1,9 +1,53 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-09T11:26:59.941Z",
-  "version": 13,
-  "commit": "c34c657028111e89aa2fb7b4afd8b11a03e05ddc",
+  "generatedAt": "2026-09-09T11:35:53.252Z",
+  "version": 14,
+  "commit": "41f144a1f3ab02f3b468330100ffe60f4fea1fe7",
   "entries": [
+    {
+      "id": "Caleul/lilka-catalog-e2e/agent/catalog-e2e-writer",
+      "name": "Catalog E2E Writer",
+      "description": "Synthetic writer for catalog lifecycle validation.",
+      "type": "agent",
+      "source": {
+        "kind": "github",
+        "owner": "Caleul",
+        "repo": "lilka-catalog-e2e",
+        "ref": "c54f2bde4b9e4e75c750bd29c86b46765b1575cb",
+        "path": "packages/agent/catalog-e2e-writer/1.0.0",
+        "format": "auto"
+      },
+      "digest": "sha256:e64d162c571285ed9fa17d844f0a267186b3523dd558242525948288fe975f36",
+      "version": "1.0.0",
+      "downloads": 0,
+      "tags": [],
+      "publishedAt": "2026-09-09T11:13:22.509Z",
+      "license": "MIT"
+    },
+    {
+      "id": "conversation-titler",
+      "name": "Conversation Titler",
+      "description": "Creates concise, descriptive conversation titles when invoked by a Lilka trigger.",
+      "type": "agent",
+      "digest": "sha256:d736baf9e460c5be6f3ece8914ede6e48859bb30f596e08fc41efedab958b759",
+      "version": "1.0.0",
+      "downloads": 0,
+      "tags": [
+        "conversation",
+        "title",
+        "automation",
+        "trigger"
+      ],
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/agents/conversation-titler",
+        "format": "auto"
+      }
+    },
     {
       "id": "general-assistant",
       "name": "General Assistant",
@@ -51,50 +95,6 @@
         "path": "free/agents/migration-assistant",
         "format": "auto"
       }
-    },
-    {
-      "id": "conversation-titler",
-      "name": "Conversation Titler",
-      "description": "Creates concise, descriptive conversation titles when invoked by a Lilka trigger.",
-      "type": "agent",
-      "digest": "sha256:d736baf9e460c5be6f3ece8914ede6e48859bb30f596e08fc41efedab958b759",
-      "version": "1.0.0",
-      "downloads": 0,
-      "tags": [
-        "conversation",
-        "title",
-        "automation",
-        "trigger"
-      ],
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/agents/conversation-titler",
-        "format": "auto"
-      }
-    },
-    {
-      "id": "Caleul/lilka-catalog-e2e/agent/catalog-e2e-writer",
-      "name": "Catalog E2E Writer",
-      "description": "Synthetic writer for catalog lifecycle validation.",
-      "type": "agent",
-      "source": {
-        "kind": "github",
-        "owner": "Caleul",
-        "repo": "lilka-catalog-e2e",
-        "ref": "c54f2bde4b9e4e75c750bd29c86b46765b1575cb",
-        "path": "packages/agent/catalog-e2e-writer/1.0.0",
-        "format": "auto"
-      },
-      "digest": "sha256:e64d162c571285ed9fa17d844f0a267186b3523dd558242525948288fe975f36",
-      "version": "1.0.0",
-      "downloads": 0,
-      "tags": [],
-      "publishedAt": "2026-09-09T11:13:22.509Z",
-      "license": "MIT"
     }
   ]
 }
