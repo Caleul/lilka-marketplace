@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-09T11:06:26.332Z",
   "version": 8,
+  "generatedAt": "2026-09-09T11:06:26.332Z",
   "commit": "109e50c378dd61ac37d34b5005cd9fadffc0a57c",
   "entries": [
     {
@@ -9,6 +9,14 @@
       "name": "Content Pipeline",
       "description": "A generic two-step workflow that researches a topic and delivers structured content.",
       "type": "agency",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/agencies/content-pipeline",
+        "format": "auto"
+      },
       "digest": "sha256:4d2b03ead5121ee3ceefbd2df72d6a04c4715274c884e88956dd8b98389face3",
       "version": "1.0.0",
       "downloads": 0,
@@ -17,21 +25,21 @@
         "workflow",
         "content"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/agencies/content-pipeline",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "task-development",
       "name": "Task Development",
       "description": "A context-first delivery workflow with planning, implementation, and a review gate that returns inconsistencies to planning.",
       "type": "agency",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/agencies/task-development",
+        "format": "auto"
+      },
       "digest": "sha256:86ba2e91c89f3488d0877e89d0ee6ee90595741a0380bbfd17dd18b11abee487",
       "version": "1.0.0",
       "downloads": 0,
@@ -40,21 +48,21 @@
         "workflow",
         "development"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/agencies/task-development",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "general-assistant",
       "name": "General Assistant",
       "description": "A versatile assistant for planning, writing, analysis, and structured deliverables.",
       "type": "agent",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/agents/general-assistant",
+        "format": "auto"
+      },
       "digest": "sha256:53790f224152d808e3bbf82c181129b5bb5e0e131e986207f5d3a7ae1a3efbbc",
       "version": "1.0.0",
       "downloads": 0,
@@ -63,21 +71,21 @@
         "general",
         "assistant"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/agents/general-assistant",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "migration-assistant",
       "name": "Migration Assistant",
       "description": "Discovers and migrates agents, instructions, skills, and skill-based plugins from other coding-agent ecosystems into a Lilka project.",
       "type": "agent",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/agents/migration-assistant",
+        "format": "auto"
+      },
       "digest": "sha256:27550b820ce30ae3bb8a0d3c3baa2983e842b7fcec6b411992569d3aa0ac2eb6",
       "version": "1.0.0",
       "downloads": 0,
@@ -88,21 +96,21 @@
         "codex",
         "claude"
       ],
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/agents/migration-assistant",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-31T00:00:00.000Z"
     },
     {
       "id": "conversation-titler",
       "name": "Conversation Titler",
       "description": "Creates concise, descriptive conversation titles when invoked by a Lilka trigger.",
       "type": "agent",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/agents/conversation-titler",
+        "format": "auto"
+      },
       "digest": "sha256:d736baf9e460c5be6f3ece8914ede6e48859bb30f596e08fc41efedab958b759",
       "version": "1.0.0",
       "downloads": 0,
@@ -112,21 +120,21 @@
         "automation",
         "trigger"
       ],
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/agents/conversation-titler",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-31T00:00:00.000Z"
     },
     {
       "id": "catppuccin-mocha",
       "name": "Catppuccin Mocha",
       "description": "The popular Catppuccin Mocha palette adapted for Lilka.",
       "type": "theme",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/catppuccin-mocha",
+        "format": "auto"
+      },
       "digest": "sha256:a95b7dbaf75bff8d548ee4595e7a8bdc08435b75b75d8cd506c9ae6004120d39",
       "version": "1.0.0",
       "downloads": 2247,
@@ -135,21 +143,21 @@
         "dark",
         "popular"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/catppuccin-mocha",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "dracula",
       "name": "Dracula",
       "description": "The popular Dracula dark palette adapted for Lilka.",
       "type": "theme",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/dracula",
+        "format": "auto"
+      },
       "digest": "sha256:fcdb5eddfe07db9a0a6776a99731ee1c1d9d2401d2b62f06054c44ac07d2e325",
       "version": "1.0.0",
       "downloads": 880,
@@ -158,21 +166,21 @@
         "dark",
         "popular"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/dracula",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "lilka-dark-theme",
       "name": "Solarized",
       "description": "Solarized Lilka appearance theme with a warm dark surface and violet accents.",
       "type": "theme",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/lilka-dark-theme",
+        "format": "auto"
+      },
       "digest": "sha256:32113321f026621c6e41a69ba9a505f4f9c8d9afacc5387627bcd21cb7211121",
       "version": "1.0.0",
       "downloads": 0,
@@ -181,29 +189,13 @@
         "theme",
         "dark"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/lilka-dark-theme",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "lilka-default-icons",
       "name": "Lilka Default Icons",
       "description": "Default Lilka file icon theme.",
       "type": "iconTheme",
-      "digest": "sha256:4cd9351f20b7d4af4196c18ca27ad6f3d0194fd5b797cc3f430e8f0dd4c12c64",
-      "version": "1.0.0",
-      "downloads": 0,
-      "tags": [
-        "lilka",
-        "icons"
-      ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
       "source": {
         "kind": "github",
         "owner": "Lilka-Tech",
@@ -211,13 +203,29 @@
         "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
         "path": "free/appearances/lilka-default-icons",
         "format": "auto"
-      }
+      },
+      "digest": "sha256:4cd9351f20b7d4af4196c18ca27ad6f3d0194fd5b797cc3f430e8f0dd4c12c64",
+      "version": "1.0.0",
+      "downloads": 0,
+      "tags": [
+        "lilka",
+        "icons"
+      ],
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "lilka-default-theme",
       "name": "Lilka Default",
       "description": "Default Lilka appearance theme — deep charcoal surfaces, crisp zinc borders, and a vivid blue accent.",
       "type": "theme",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/lilka-default-theme",
+        "format": "auto"
+      },
       "digest": "sha256:926576f2c3417051c19ceda5fa627284ca08abb1a58264765aabc782e8d85794",
       "version": "1.0.0",
       "downloads": 0,
@@ -226,21 +234,21 @@
         "theme",
         "dark"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/lilka-default-theme",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "lilka-light-theme",
       "name": "Lilka Light",
       "description": "Light Lilka appearance theme with crisp neutral surfaces and a focused lilac accent.",
       "type": "theme",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/lilka-light-theme",
+        "format": "auto"
+      },
       "digest": "sha256:243389e2858ddfdf1dda4a8fa089823f0893acd9bafd0c4c3e4c50dc3fb9a16e",
       "version": "1.0.0",
       "downloads": 0,
@@ -249,21 +257,21 @@
         "theme",
         "light"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/lilka-light-theme",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "lilka-medium-light-theme",
       "name": "Lilka Medium Light",
       "description": "Medium-light Lilka appearance theme built from calm gray surfaces and graphite accents.",
       "type": "theme",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/lilka-medium-light-theme",
+        "format": "auto"
+      },
       "digest": "sha256:8f52028269db37aec81e6595298244e09619d78300e2dcb135e17331e1b19185",
       "version": "1.0.0",
       "downloads": 0,
@@ -272,21 +280,21 @@
         "theme",
         "light"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/lilka-medium-light-theme",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "material-icon-theme",
       "name": "Material Icon Theme",
       "description": "Popular MIT-licensed icon theme adapted for Lilka from material-extensions/vscode-material-icon-theme.",
       "type": "iconTheme",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/material-icon-theme",
+        "format": "auto"
+      },
       "digest": "sha256:d23127b39920550d69451adecaf139fbae8e6fa33d906e67f8e6671a02f38451",
       "version": "1.0.0",
       "downloads": 2953,
@@ -295,21 +303,21 @@
         "material",
         "popular"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/material-icon-theme",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "one-dark-pro",
       "name": "One Dark Pro",
       "description": "The widely used One Dark Pro palette adapted for Lilka.",
       "type": "theme",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/one-dark-pro",
+        "format": "auto"
+      },
       "digest": "sha256:7e0cdc690eb5f2ad029552b4abb9a712f1c358e9d0d157cb6f444200953ab6a4",
       "version": "1.0.0",
       "downloads": 1781,
@@ -318,21 +326,21 @@
         "dark",
         "popular"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/one-dark-pro",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "vscode-icons",
       "name": "vscode-icons",
       "description": "Popular MIT-licensed icon theme adapted for Lilka from vscode-icons/vscode-icons.",
       "type": "iconTheme",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/appearances/vscode-icons",
+        "format": "auto"
+      },
       "digest": "sha256:d172cf7215edf35068eee42d450ab93b7180bf063f2ceb9b1524b031337a98a3",
       "version": "1.0.0",
       "downloads": 5132,
@@ -341,21 +349,21 @@
         "files",
         "popular"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/appearances/vscode-icons",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "find-skills",
       "name": "find-skills",
       "description": "Popular skill find-skills",
       "type": "skill",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/skills/find-skills",
+        "format": "auto"
+      },
       "digest": "sha256:52b4e2205e43f4c03fb46915941d575cc49c26526a5e6c21b1e1472828623677",
       "version": "1.0.0",
       "downloads": 3200000,
@@ -364,21 +372,21 @@
         "discovery",
         "popular"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/skills/find-skills",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "grill-me",
       "name": "grill-me",
       "description": "Popular skill grill-me",
       "type": "skill",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/skills/grill-me",
+        "format": "auto"
+      },
       "digest": "sha256:ef20337706ac97b01e569f801c2b870485ca42485fbdb2d8b8824927f171117f",
       "version": "1.0.0",
       "downloads": 999200,
@@ -387,21 +395,21 @@
         "clarification",
         "popular"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/skills/grill-me",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "improve-codebase-architecture",
       "name": "improve-codebase-architecture",
       "description": "Popular skill improve-codebase-architecture",
       "type": "skill",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/skills/improve-codebase-architecture",
+        "format": "auto"
+      },
       "digest": "sha256:ed197e8c4b721951d7a8215b9a5685c101f7ea6475b4328f23cb279f29850d7b",
       "version": "1.0.0",
       "downloads": 819100,
@@ -410,21 +418,21 @@
         "codebase",
         "popular"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
-      "source": {
-        "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/skills/improve-codebase-architecture",
-        "format": "auto"
-      }
+      "publishedAt": "2026-08-29T00:00:00.000Z"
     },
     {
       "id": "tdd",
       "name": "tdd",
       "description": "Popular skill tdd",
       "type": "skill",
+      "source": {
+        "kind": "github",
+        "owner": "Lilka-Tech",
+        "repo": "lilka-packages",
+        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
+        "path": "free/skills/tdd",
+        "format": "auto"
+      },
       "digest": "sha256:2ccf18d12897c13998e12d3e757258730cbe7e2e515bec863ac22c74830adb51",
       "version": "1.0.0",
       "downloads": 791800,
@@ -433,15 +441,27 @@
         "tdd",
         "popular"
       ],
-      "publishedAt": "2026-08-29T00:00:00.000Z",
+      "publishedAt": "2026-08-29T00:00:00.000Z"
+    },
+    {
+      "id": "Caleul/lilka-catalog-e2e/theme/catalog-e2e-theme",
+      "name": "Catalog E2E Theme",
+      "description": "Synthetic theme for catalog lifecycle validation.",
+      "type": "theme",
       "source": {
         "kind": "github",
-        "owner": "Lilka-Tech",
-        "repo": "lilka-packages",
-        "ref": "ea52e2cd961a49d26d88242f35f1da1abf04bc80",
-        "path": "free/skills/tdd",
+        "owner": "Caleul",
+        "repo": "lilka-catalog-e2e",
+        "ref": "55ce20bf55db6bf43117bc8a01568da225bb0437",
+        "path": "packages/theme/catalog-e2e-theme/1.0.0",
         "format": "auto"
-      }
+      },
+      "digest": "sha256:af5c34f8e5401aa925252250d4566710b1e28ed953f338e63a6fc590063581d1",
+      "version": "1.0.0",
+      "downloads": 0,
+      "tags": [],
+      "publishedAt": "2026-09-09T11:07:12.816Z",
+      "license": "MIT"
     }
   ]
 }
