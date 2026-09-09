@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-09T11:40:27.459Z",
-  "version": 18,
-  "commit": "4ac4b1bc4096297240c8d5c342ab6b5e1ab28417",
+  "generatedAt": "2026-09-09T11:44:22.098Z",
+  "version": 19,
+  "commit": "c1f011321bb095493fc45cc4ba2c12211bae0b1b",
   "entries": [
     {
       "id": "Caleul/lilka-catalog-e2e/agency/catalog-e2e-agency",
@@ -229,6 +229,27 @@
         "path": "free/appearances/vscode-icons",
         "format": "auto"
       }
+    },
+    {
+      "id": "Caleul/lilka-catalog-e2e/plugin/catalog-e2e-plugin",
+      "name": "Catalog E2E Plugin",
+      "description": "Synthetic catalog plugin lifecycle fixture.",
+      "type": "plugin",
+      "source": {
+        "kind": "github",
+        "owner": "Caleul",
+        "repo": "lilka-catalog-e2e",
+        "ref": "4692d120e5b398fd7664c3d8e4a67362a8af7a7e",
+        "path": "packages/plugin/catalog-e2e/1.0.0",
+        "format": "codex"
+      },
+      "digest": "sha256:dfca1cbd4e2f8cbb91e55fa19dfc2166367b6894a2ee6686692efb0b93b27fed",
+      "version": "1.0.0",
+      "downloads": 0,
+      "tags": [],
+      "publishedAt": "2026-09-09T11:39:44.822Z",
+      "pluginFormat": "codex",
+      "license": "MIT"
     },
     {
       "id": "find-skills",
@@ -541,6 +562,26 @@
       "downloads": 0,
       "tags": [],
       "publishedAt": "2026-09-09T11:37:55.902Z",
+      "license": "MIT"
+    },
+    {
+      "id": "Caleul/lilka-catalog-e2e/toolPack/catalog-e2e-pack",
+      "name": "Catalog E2E Pack",
+      "description": "Synthetic tool pack for catalog lifecycle validation.",
+      "type": "toolPack",
+      "source": {
+        "kind": "github",
+        "owner": "Caleul",
+        "repo": "lilka-catalog-e2e",
+        "ref": "98e55e35f7a74184e709975196238d1d2d367ab4",
+        "path": "packages/toolPack/catalog-e2e-pack/1.0.1",
+        "format": "auto"
+      },
+      "digest": "sha256:8b0faa00cc69324cb54ed3319cb3e4b8199878176c63eb854c9adb78cb88a3cd",
+      "version": "1.0.1",
+      "downloads": 0,
+      "tags": [],
+      "publishedAt": "2026-09-09T11:39:18.397Z",
       "license": "MIT"
     }
   ]
