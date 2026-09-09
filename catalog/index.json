@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-09T11:39:05.850Z",
-  "version": 17,
-  "commit": "a55479f006c6e9c38de74aa6082242f7c3100c74",
+  "generatedAt": "2026-09-09T11:40:27.459Z",
+  "version": 18,
+  "commit": "4ac4b1bc4096297240c8d5c342ab6b5e1ab28417",
   "entries": [
     {
       "id": "Caleul/lilka-catalog-e2e/agency/catalog-e2e-agency",
@@ -340,6 +340,26 @@
       "downloads": 0,
       "tags": [],
       "publishedAt": "2026-09-09T11:11:31.750Z",
+      "license": "MIT"
+    },
+    {
+      "id": "Caleul/lilka-catalog-e2e/theme/catalog-e2e-theme",
+      "name": "Catalog E2E Theme",
+      "description": "Synthetic theme updated accent for catalog lifecycle validation.",
+      "type": "theme",
+      "source": {
+        "kind": "github",
+        "owner": "Caleul",
+        "repo": "lilka-catalog-e2e",
+        "ref": "80f757d44711e64e43ea35800fe631f0fa22b21c",
+        "path": "packages/theme/catalog-e2e-theme/1.0.1",
+        "format": "auto"
+      },
+      "digest": "sha256:f33c50719b1af636b3d6c0f8a8afeb09eaa85760e3941422b92758b28e97b764",
+      "version": "1.0.1",
+      "downloads": 0,
+      "tags": [],
+      "publishedAt": "2026-09-09T11:38:04.551Z",
       "license": "MIT"
     },
     {
