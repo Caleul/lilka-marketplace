@@ -502,6 +502,26 @@
       "tags": [],
       "publishedAt": "2026-09-09T11:15:32.859Z",
       "license": "MIT"
+    },
+    {
+      "id": "Caleul/lilka-catalog-e2e/tool/catalog-e2e-tool",
+      "name": "Catalog E2E Tool",
+      "description": "Synthetic HTTP tool for catalog lifecycle validation.",
+      "type": "tool",
+      "source": {
+        "kind": "github",
+        "owner": "Caleul",
+        "repo": "lilka-catalog-e2e",
+        "ref": "7b77e4ee9422f1cdcc2a76f0a49e79ff43411225",
+        "path": "packages/tool/catalog-e2e-tool/1.0.0",
+        "format": "auto"
+      },
+      "digest": "sha256:fc3d31f335f46137c0fe7152502343947b13c64b7868eb43343ecf75ad16cabe",
+      "version": "1.0.0",
+      "downloads": 0,
+      "tags": [],
+      "publishedAt": "2026-09-09T11:27:13.356Z",
+      "license": "MIT"
     }
   ]
 }
