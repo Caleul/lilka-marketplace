@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T13:24:33.299Z",
-  "version": 6,
-  "commit": "a929d456fb4b941e2a80dc24bf8ff0d82bf8ab03",
+  "generatedAt": "2026-09-09T10:52:52.952Z",
+  "version": 7,
+  "commit": "f2b82df9ff621ca821e5c7807e9cd9c2404e475e",
   "entries": [
     {
       "id": "content-pipeline",
@@ -11,7 +11,7 @@
       "type": "agency",
       "repository": "Lilka-Tech/lilka-marketplace",
       "path": "packages/free/agencies/content-pipeline",
-      "commit": "a929d456fb4b941e2a80dc24bf8ff0d82bf8ab03",
+      "commit": "f2b82df9ff621ca821e5c7807e9cd9c2404e475e",
       "digest": "sha256:4d2b03ead5121ee3ceefbd2df72d6a04c4715274c884e88956dd8b98389face3",
       "version": "1.0.0",
       "downloads": 0,
@@ -29,7 +29,7 @@
       "type": "agency",
       "repository": "Lilka-Tech/lilka-marketplace",
       "path": "packages/free/agencies/task-development",
-      "commit": "a929d456fb4b941e2a80dc24bf8ff0d82bf8ab03",
+      "commit": "f2b82df9ff621ca821e5c7807e9cd9c2404e475e",
       "digest": "sha256:86ba2e91c89f3488d0877e89d0ee6ee90595741a0380bbfd17dd18b11abee487",
       "version": "1.0.0",
       "downloads": 0,
