@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-09T11:35:53.252Z",
-  "version": 14,
-  "commit": "41f144a1f3ab02f3b468330100ffe60f4fea1fe7",
+  "generatedAt": "2026-09-09T11:39:05.850Z",
+  "version": 17,
+  "commit": "a55479f006c6e9c38de74aa6082242f7c3100c74",
   "entries": [
     {
       "id": "Caleul/lilka-catalog-e2e/agency/catalog-e2e-agency",
@@ -502,6 +502,26 @@
         "path": "free/appearances/one-dark-pro",
         "format": "auto"
       }
+    },
+    {
+      "id": "Caleul/lilka-catalog-e2e/tool/catalog-e2e-tool",
+      "name": "Catalog E2E Tool",
+      "description": "Synthetic HTTP tool for catalog lifecycle validation.",
+      "type": "tool",
+      "source": {
+        "kind": "github",
+        "owner": "Caleul",
+        "repo": "lilka-catalog-e2e",
+        "ref": "e422b32ede4d436dc363c8b704c823f330e6a90f",
+        "path": "packages/tool/catalog-e2e-tool/1.0.1",
+        "format": "auto"
+      },
+      "digest": "sha256:f631f370fc67cf41b5daae55b17738c7ad6bf27dd81d8afb1392948e01b89d51",
+      "version": "1.0.1",
+      "downloads": 0,
+      "tags": [],
+      "publishedAt": "2026-09-09T11:37:55.902Z",
+      "license": "MIT"
     }
   ]
 }
